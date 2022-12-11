@@ -1,0 +1,41 @@
+/* {
+    prymary: 432C7A;
+    secundary: 80489C;
+    light: FF8FB1;
+    info: FCE2DB;
+}*/
+.text-light {
+    color: #FF8FB1;
+}
+
+.bg-primary {
+    background-color: #432C7A;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-secondary {
+    color: #80489C;
+}
+
+.width-100 {
+    width: 100px;
+}
+
+.bg-info {
+    background-color: #FCE2DB;
+}
+
+.text-primary {
+    color: #432C7A;
+}
+
+.text-white {
+    color: white;
+}
